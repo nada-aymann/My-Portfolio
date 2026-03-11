@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import React from "react";
-import profilepic from "../assets/images/313067.jpg";
+import profilepic from "../assets/images/coding-8.png";
 import { TypeAnimation } from "react-type-animation";
 import About from "./About";
 import Projects from "./Projects";
@@ -97,7 +97,7 @@ export default function Home() {
             </motion.div>
           </motion.div>
           <motion.div
-            className="w-[200px] md:w-[350px] -order-1 lg:order-1"
+            className="w-[200px] md:w-[400px] -order-1 lg:order-1"
             animate={{
               y: [0, 10, 0],
             }}
@@ -109,7 +109,7 @@ export default function Home() {
           >
             <motion.img
               src={profilepic}
-              className="w-full rounded-full border-4 border-purple-500 dark:border-purple-400"
+              className="w-full rounded-full"
               initial={{ opacity: 0, scale: 0.8 }}
               whileInView={{ opacity: 1, scale: 1 }}
               viewport={{ once: true }}

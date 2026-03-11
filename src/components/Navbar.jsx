@@ -57,7 +57,7 @@ export default function Navbar() {
           className="fixed top-0 left-0 w-full h-full z-[-1]"
         ></motion.div>
       </AnimatePresence>
-      <nav className="bg-purple-400 dark:bg-black dark:bg-opacity-30 fixed top-0 left-0 right-0 z-50">
+      <nav className="bg-purple-400 dark:bg-black dark:bg-opacity-80 fixed top-0 left-0 right-0 z-50">
         <div className="mx-auto max-w-[85%]">
           <div className="relative flex h-16 items-center justify-between z-50">
             <div className="absolute inset-y-0 right-0 flex items-center sm:hidden">
