@@ -27,8 +27,8 @@ export default function ProjectsContextProvider(props) {
         description:
           "This project is a static restaurant web page built using HTML, CSS and media queries for responsive design. It aims to provide a modern, clean, and user-friendly interface that adapts to user preferences for light and dark themesusing :has pseudo-class and :checked selector.",
         links: {
-          site: "https://nadaa15.github.io/Mealify/",
-          github: "https://github.com/nadaa15/Mealify",
+          site: "https://nada-aymann.github.io/Mealify/",
+          github: "https://github.com/nada-aymann/Mealify",
         },
         technologies: ["Html", "CSS", "Media Queries"],
         catg: "HTML & CSS",
@@ -40,8 +40,8 @@ export default function ProjectsContextProvider(props) {
         description:
           "A personal portfolio website built using HTML, CSS, and Bootstrap, designed to be responsive and aesthetically pleasing and show your skills, experience and projects",
         links: {
-          site: "https://nadaa15.github.io/Daniels/",
-          github: "https://github.com/nadaa15/Daniels",
+          site: "https://nada-aymann.github.io/Daniels/",
+          github: "https://github.com/nada-aymann/Daniels",
         },
         technologies: ["Html", "CSS", "Bootstrap"],
         catg: "HTML & CSS",
@@ -53,8 +53,8 @@ export default function ProjectsContextProvider(props) {
         description:
           "This is a basic responsive landing page created using HTML5, CSS3, and Bootsrap5. The landing page is structured using semantic elements and styled to provide a clean, user-friendly design. It is fully responsive and tested across multiple browsers for compatibility.",
         links: {
-          site: "https://nadaa15.github.io/VivaDecor/",
-          github: "https://github.com/nadaa15/VivaDecor",
+          site: "https://nada-aymann.github.io/VivaDecor/",
+          github: "https://github.com/nada-aymann/VivaDecor",
         },
         technologies: ["Html", "CSS", "Bootstrap"],
         catg: "HTML & CSS",
@@ -66,8 +66,8 @@ export default function ProjectsContextProvider(props) {
         description:
           "A fully responsive Image Gallery created using HTML, CSS, and JavaScript. This project allows users to view a collection of images with an interactive interface, including navigation buttons and dots for forward/backward movement, automatic image transitions, hover pause and swipe on touch devices.",
         links: {
-          site: "https://nadaa15.github.io/Image-Gallery/",
-          github: "https://github.com/nadaa15/Image-Gallery",
+          site: "https://nada-aymann.github.io/Image-Gallery/",
+          github: "https://github.com/nada-aymann/Image-Gallery",
         },
         technologies: ["Html", "CSS", "JavaScript"],
         catg: "JavaScript",
@@ -79,8 +79,8 @@ export default function ProjectsContextProvider(props) {
         description:
           "A simple, responsive web application to manage and organize your bookmarks. built using HTML, CSS, Bootstrap and JavaScript",
         links: {
-          site: "https://nadaa15.github.io/Bookmark/",
-          github: "https://github.com/nadaa15/Bookmark",
+          site: "https://nada-aymann.github.io/Bookmark/",
+          github: "https://github.com/nada-aymann/Bookmark",
         },
         technologies: ["Html", "CSS", "Bootstrap", "JavaScript", "LocaStorage"],
         catg: "JavaScript",
@@ -92,8 +92,8 @@ export default function ProjectsContextProvider(props) {
         description:
           "To-Do List Web App that demonstrates CRUD operations (Create, Read, Update, Delete, Search) built using HTML, CSS, Bootstrap, JS and Local Storage",
         links: {
-          site: "https://nadaa15.github.io/To-Do-List/",
-          github: "https://github.com/nadaa15/To-Do-List",
+          site: "https://nada-aymann.github.io/To-Do-List/",
+          github: "https://github.com/nada-aymann/To-Do-List",
         },
         technologies: ["Html", "CSS", "Bootstrap", "JavaScript", "LocaStorage"],
         catg: "JavaScript",
@@ -105,8 +105,8 @@ export default function ProjectsContextProvider(props) {
         description:
           "A responsive Weather App that provides current weather information based on the user's location built using HTML, CSS, Bootstrap, JS, Weather API, Geolocation API.",
         links: {
-          site: "https://nadaa15.github.io/Weather-App/",
-          github: "https://github.com/nadaa15/Weather-App",
+          site: "https://nada-aymann.github.io/Weather-App/",
+          github: "https://github.com/nada-aymann/Weather-App",
         },
         technologies: [
           "Html",
@@ -125,8 +125,8 @@ export default function ProjectsContextProvider(props) {
         description:
           "A web application that allows users to explore various meals and recipes from around the world. It uses HTML, CSS, JavaScript, and jQuery, interacts with an external API to fetch meal data and Regular Expressions for form validation.",
         links: {
-          site: "https://nadaa15.github.io/Yummy/",
-          github: "https://github.com/nadaa15/Yummy",
+          site: "https://nada-aymann.github.io/Yummy/",
+          github: "https://github.com/nada-aymann/Yummy",
         },
         technologies: [
           "Html",
@@ -145,8 +145,8 @@ export default function ProjectsContextProvider(props) {
         description:
           "A simple, responsive note-taking application built with React, React-Bootstrap, Recoil, and authentication support. This app allows users to register, log in, and manage their notes securely.",
         links: {
-          site: "https://nadaa15.github.io/Note-App/",
-          github: "https://github.com/nadaa15/Note-App",
+          site: "https://nada-aymann.github.io/Note-App/",
+          github: "https://github.com/nada-aymann/Note-App",
         },
         technologies: [
           "React",
@@ -167,8 +167,8 @@ export default function ProjectsContextProvider(props) {
         description:
           "FreshCart is an eCommerce application built using React, Tailwind CSS. It provides User authentication (login and signup), Displays products, categories, brands and product details, Shopping cart and wishlist functionality, Checkout process and Online payment",
         links: {
-          site: "https://nadaa15.github.io/Fresh-Cart/",
-          github: "https://github.com/nadaa15/Fresh-Cart",
+          site: "https://nada-aymann.github.io/Fresh-Cart/",
+          github: "https://github.com/nada-aymann/Fresh-Cart",
         },
         technologies: [
           "React",
@@ -191,8 +191,8 @@ export default function ProjectsContextProvider(props) {
         description:
           "A responsive Weather App that provides current weather information based on the user's location built using React.js, Redux toolkit, Material ui, Weather API, Geolocation API.",
         links: {
-          site: "https://nadaa15.github.io/Weather-App-React/",
-          github: "https://github.com/nadaa15/Weather-App-React",
+          site: "https://nada-aymann.github.io/Weather-App-React/",
+          github: "https://github.com/nada-aymann/Weather-App-React",
         },
         technologies: [
           "React js",
@@ -213,8 +213,8 @@ export default function ProjectsContextProvider(props) {
         description:
           "Exclusive is an eCommerce application built using React, Tailwind CSS, Redux Toolkit and Firebase. It provides User authentication (login and signup), Displaying and searching products, filtring by category, product details, Shopping cart and wishlist functionality, Checkout process",
         links: {
-          site: "https://nadaa15.github.io/Exclusive-Store/",
-          github: "https://github.com/nadaa15/Exclusive-Store",
+          site: "https://nada-aymann.github.io/Exclusive-Store/",
+          github: "https://github.com/nada-aymann/Exclusive-Store",
         },
         technologies: [
           "React",
@@ -240,7 +240,7 @@ export default function ProjectsContextProvider(props) {
           `A web platform that connects customers with delivery service providers. Users can browse services, place orders, track shipments, and manage profiles, while providers can register, offer delivery options, and manage their orders. Built with Nuxt 3 for server-side rendering and enhanced SEO, with dynamic routing and form validation across multiple steps. The system includes user and provider dashboards, authentication, notification system, and responsive design based on Figma mockups.`,
         links: {
           site: "https://trio-snd.onrender.com",
-          github: "https://github.com/nadaa15/Trio-Shipping-Services-Platform-",
+          github: "https://github.com/nada-aymann/Trio-Shipping-Services-Platform-",
         },
         technologies: [
            "Nuxt 3", "TypeScript", "Tailwind CSS", "Pinia", "Axios", "vuetify", "vee-validate", "yup", "swiper", "nuxtjs/i18n", "Figma", "Git"
